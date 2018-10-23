@@ -1,4 +1,4 @@
-# 基于Heml的发布管理 {#concept_tcp_sb4_vdb .concept}
+# 基于Helm的发布管理 {#concept_tcp_sb4_vdb .concept}
 
 在阿里云 Kubernetes 服务提供了丰富的云市场，其中的应用目录和服务目录功能集成了 helm 包管理工具，帮助您快速构建云上应用，因为 chart 可以多次发布（release），这就带来一个发布版本管理的问题。因此，阿里云 Kubernetes 服务提供了发布功能，通过 Web 界面的方式对通过 helm 发布的应用进行管理。
 
