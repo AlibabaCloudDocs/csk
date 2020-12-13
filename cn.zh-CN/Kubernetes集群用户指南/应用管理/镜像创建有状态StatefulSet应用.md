@@ -1,6 +1,6 @@
 # 镜像创建有状态StatefulSet应用 {#task_o24_h1s_2fb .task}
 
-阿里云容器服务Kubernetes集群支持通过界面创建StatefultSet类型的应用，满足您快速创建有状态应用的需求。本例中将创建一个nginx的有状态应用，并演示StatefulSet应用的特性。
+阿里云容器服务Kubernetes集群支持通过界面创建StatefulSet类型的应用，满足您快速创建有状态应用的需求。本例中将创建一个nginx的有状态应用，并演示StatefulSet应用的特性。
 
 -   您已成功创建一个 Kubernetes 集群。参见[ZH-CN\_TP\_16639.md\#](intl.zh-CN/Kubernetes集群用户指南/集群管理/创建集群/创建Kubernetes 集群.md#)。
 -   您已成功创建一个云盘存储卷声明，参见[ZH-CN\_TP\_16691.md\#](intl.zh-CN/Kubernetes集群用户指南/存储管理-Flexvolume/创建持久化存储卷声明.md#)。
